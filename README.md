@@ -1,2 +1,6 @@
 # Mid-Term-Project
-MId Term Projects of Bano Qabil
+Bano Qabil CIT and Python
+<br>
+Mid Term Projects of Bano Qabil
+<br>
+
